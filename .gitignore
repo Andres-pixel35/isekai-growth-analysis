@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# File nvim uses to write the notebooks.
+*.ju.py
+
+# temporal files where we check somethings before doing them in the notebook
+la.ipynb
+output.txt
