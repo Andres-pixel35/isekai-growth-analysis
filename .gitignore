@@ -4,6 +4,8 @@
 # File nvim uses to write the notebooks.
 *.ju.py
 
+./src/__pycache__
+
 # temporal files where we check somethings before doing them in the notebook
-la.ipynb
+a.ipynb
 output.txt
