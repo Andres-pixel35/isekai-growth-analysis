@@ -8,8 +8,8 @@ def cagr(start_value, end_value, years):
     return (end_value / start_value) ** (1 / years) - 1
 
 # create data frame df and isekai_df and return both of them
-def cidf():
-    df = pd.read_csv(path, usecols=["Title", "Release", "Theme"])
+def cidf(columns: list):
+    df = pd.read_csv(path, usecols=columns)
 
     df = df.dropna(subset=["Theme"])
 
