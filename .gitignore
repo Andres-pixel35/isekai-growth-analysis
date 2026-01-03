@@ -8,4 +8,4 @@ __pycache__/
 
 # temporal files where we check somethings before doing them in the notebook
 a.ipynb
-output.txt
+*.txt
