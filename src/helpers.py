@@ -19,3 +19,11 @@ def cidf(columns: list):
     isekai_df = df[df["Theme"].str.contains("isekai", case=False, na=False)]
 
     return df, isekai_df
+
+# calculate the growth since x year to y year.
+def cgp(start_value, end_value):
+    return round(((end_value - start_value) / start_value) * 100, 2)
+
+# normalizes the data with max-min
+def nmm(data):
+    return (data - data.min()) / (data.max() - data.min())
