@@ -33,7 +33,9 @@ The analysis was performed using **Python** (Pandas, Matplotlib, Numpy) to proce
 * **The Source Engine:** There is a **0.96 correlation** (with a two-year lag) between Light Novel releases and Anime adaptations, suggesting a direct feedback loop between the two industries.
 
 ## 📝 Final Conclusion
-Isekai is not an "abnormal" anomaly; it is the most recent beneficiary of a massive feedback loop between Light Novels and Anime. While the trend likely started as a response to the growth of the Light Novel market, the subsequent success of Isekai Anime has clearly incentivized authors to write more in the genre. This creates a self-sustaining cycle where a proven track record leads to more adaptations. Isekai is simply the newest dominant player in an industry that has always been defined by a few high-performing giants
+The perceived "excess" of the Isekai sub-genres is firmly backed by data, since it has seen a 1,020% increase in releases since the early 2000s. With a growth rate nearly double the industry average, the category has successfully transitioned from a niche interest into a dominant market force.
+
+However, while these figures represent a significant statistical surge, this volume is not abnormal when viewed alongside other industry giants. When compared to the School sub-genre it becomes clear that Isekai has not "broken" the industry’s output model. Instead, it has simply ascended to join the top tier of most-produced themes, and up to day Isekai is not the most prevalent among them. 
 
 ## 🔗 Data Sources & References
 * **Primary Dataset:** [Animes [1962-2024]](https://www.kaggle.com/datasets/youcmoulai/animes) by Youxise
