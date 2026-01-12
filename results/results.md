@@ -88,7 +88,7 @@ So, are there really that many Isekai, or does it just feel that way? After divi
 
 - **It’s one of Them, Not the One**: While Isekai is a statistical outlier today, it isn't "abnormal" when compared to giants like the School sub-genre. It hasn't broken the industry; it has simply joined the top tier of most-produced themes.
 
-**In Short**: While it likely began as a reaction to the growth in Light Novels, the major success of certain Anime titles undoubtedly spurred more Light Novels to be written. This has created a self-sustaining cycle: the proven success of previous Isekai Anime leads to more Light Novels being produced, which in turn leads to even more adaptations hitting our screens.
+**In Short**: No, there it not and "abnormal" amount of Isekai nowadays, when comparing with other prevalent sub-genres Isekai almost feel like a minor sub-genre among them. It has grown a lot in recent year, but up to day it cannot be considered as "abnormal". 
 
 ## References
 
