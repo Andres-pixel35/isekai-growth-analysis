@@ -8,7 +8,7 @@
   1. The total number of Isekai releases in 2020 to 2024 must show an increase of greater than 100% compared to the number of releases in 2000 to 2024.
   2. The Compound Annual Growth Rate (CAGR) of the Isekai sub-genre over the 2000-2025 period must significantly exceed the CAGR calculated for the total annual output of the entire anime industry for the same period.
 
-## Does the Isekai genre represent an abnormal amount of animes?
+##  Does Isekai represent an abnormal share of total anime production?
 ### Methodology for Abnormality Assessment
 
 - **Distribution Plotting**: The annual count of anime releases for every sub-genre tag will be plotted across two distinct periods: (2000–2024) for historical context, and the last 10 years (2015–2024) to focus on the modern, streaming-dominated era. This establishes the two relevant baseline genre distributions.
