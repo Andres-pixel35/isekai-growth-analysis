@@ -16,7 +16,7 @@ For this analysis we focused on two main points to answer the question:
 
 - ...and thirdly, to investigate a potential cause for this trend, provided the first two points yield a positive result
 
-If you like, you may see the [metodology](../docs/metodology.md), the [limitations](../docs/limitations.md) and the [Isekai](../docs/isekai.md) definition for the scope of this analysis.
+If you like, you may see the [methodology](../docs/methodology.md), the [limitations](../docs/limitations.md) and the [Isekai](../docs/isekai.md) definition for the scope of this analysis.
 
 ## Perception vs. Reality
 ### Has the Isekai genre had a considerable growth in this millennium?
